@@ -1,12 +1,20 @@
 # Security Automator Tool
 
-## How to Run
+## How to Run the Application
 
-1. Open the repository in **GitHub Codespaces** or your local terminal.
-2. Run the tool by typing:
-      bash demo.sh
-
-
+1. Open Codespace (Github) or any terminal and type this:
+         
+         bash run.sh
+         
+2. Or try the manual executable way (optional):
+   Open Codespace (Github) or any terminal and type this:
+         
+         chmod +x run.sh
+         
+   Press enter.
+   Then type:
+         
+         ./run.sh
 
 **This tool reduces manual analysis time for SOC analysts.**
 
