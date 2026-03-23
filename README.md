@@ -20,8 +20,8 @@ Run the launcher:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Public terminals do not automatically have this project. You must first download or clone the repository.  
 A. Option A — Clone with Git  
 Type:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/USH3R/Security-Automation-Tool.git  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd Security-Automation-Tool  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/USH3R/Hackathon-Project-Security-Automation-Tool.git  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd Hackathon-Project-Security-Automation-Tool 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh  
 B. Option B — Download ZIP  
 Click Code → Download ZIP on GitHub.  
@@ -32,7 +32,7 @@ Run / Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh
 4. Quick Start Command  
 This command is only for use inside a Terminal (like the one in Codespaces, terminal, or on your local machine).  
     Verify Your Location: Ensure your terminal is currently pointed at the project directory;  
-    You should see Security-Automation-Tool in your command prompt.  
+    You should see Hackathon-Project-Security-Automation-Tool in your command prompt.  
     If you have already performed the setup in steps 1, 2, or 3 and just need to restart the application, type:   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh 
 ---
