@@ -21,7 +21,7 @@ Public terminals do not automatically have this project. You must first download
 A. Option A — Clone with Git  
 Type:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/USH3R/Hackathon-Project-Security-Automation-Tool.git  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd Hackathon-Project-Security-Automation-Tool 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd Hackathon-Project-Security-Automation-Tool  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh  
 B. Option B — Download ZIP  
 Click Code → Download ZIP on GitHub.  
